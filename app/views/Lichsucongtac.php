@@ -117,9 +117,9 @@
           <li><a href="<?=_WEB_HOST?>/Phongban">Quản lý phòng ban</a></li>
           <li><a href="<?=_WEB_HOST?>/Quanlycongviec">Quản lý công việc</a></li>
           <li><a href="<?=_WEB_HOST?>/Lichsucongtac">Quản lý lịch sử công tác</a></li>
-          <li><a href="quanly_nghi_phep.html">Quản lý nghỉ phép</a></li>
+          <li><a href="<?=_WEB_HOST?>/NghiPhep">Quản lý nghỉ phép</a></li>
           <li><a href="<?=_WEB_HOST?>/Taikhoan">Quản lý tài khoản</a></li>
-      </ul>
+        </ul>
 <a href="<?=_WEB_HOST?>/Login/logout">
         <img src="public/img/dangxuat.png" alt="Đăng xuất" class="menu-icon">
         Đăng xuất
